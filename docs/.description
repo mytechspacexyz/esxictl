@@ -1,0 +1,42 @@
+# esxictl - a cli esxi hypervisor management bash application.
+
+A lightweight bash application designed to manage an esxi hypervisor host.
+
+## Key Features
+
+- **ESXi Versions Supported**: Versions 6.7+,7.x,8.x and 9.x
+- **Full QA Tests**: done for versions 6.7+,7.x,8.x and 9.x of ESXi
+- **Authentication**: username+password
+- **Security**: HTTPS
+- **Colorful Interface**: Supported a few color schemes to choose from
+- **Neat Features Inside**: Preview windows to view the selected esxi object's detailed info,
+							Preview windows to view the selected action brief help,
+							Flexible and fast management of one or more esxi objects 
+							like vms, datastores, networks, host's services and host itself
+							not leaving the command line,
+							Easy interactive browsing of various esxi objects like browsing filesystems,
+							vms list, services list,
+							Immediate app exit if needed at any browsing stage,
+							Various logging levels like info and debug,
+							Logging of warn/error turned on always,
+							Colorful output of the actions being processed or been done on esxi objects,
+							Support for various app colour themes
+							
+
+## Technical Specifications
+
+- **Platform**: Linux/Unix systems
+- **Dependencies**: bash, curl, fzf, xmllint and linux core utilities
+- **Architecture**: bash application with commands and functionality implemented as modules with separate functions,
+					dependencies, connectivity and version checks,
+					various logging levels available,
+					example various configurations available.
+
+## Use Cases
+
+Perfect for one person or IT teams that need secure, terminal-based effective management of their standalone esxi hypervisor host(s).
+Ideal for system administrators, devops or any IT groups requiring management access on Linux/Unix systems to esxi hypervisor host(s).
+
+## Security Model
+
+Uses the esxi username+password based authentication via the HTTPS protocol to an esxi hypervisor host with its certificate verification

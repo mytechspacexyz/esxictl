@@ -1,0 +1,24 @@
+esxictl is an ESXi hypervisor host management bash application version 1.0.0 free edition.
+
+Usage: esxictl <command>
+
+Commands:
+	version			Show esxictl version information
+	describe		Show esxictl description information
+	setup			Set up and define the required esxictl settings
+	debug			Set on/off debug log (useful for network and application issues debug, esxi API detailed content and others)
+	themes			Set up current esxictl colour theme
+	manage			Manage an ESXi hypervisor host
+
+	help			Show this help message
+
+Examples:
+	esxictl version
+	esxictl help
+	esxictl
+	esxictl	setup
+	esxictl debug on
+	esxictl debug off
+	esxictl themes
+	esxictl	describe
+	esxictl	manage

@@ -1,0 +1,7 @@
+export ESXI_HOSTNAME="esxi07.int.alpi.xyz"
+export ESXI_USERNAME="root"
+export ESXI_PWD="d2VBOG9PNHgyRQo="
+export ESXI_VERSION=""
+export COOKIE_FILE="${BASHAPP_SESSIONS}/esxi_cookie"
+export ESXI_API_ENDPOINT="sdk"
+export CACERT="${BASHAPP_DIR}/${BASHAPP_CONFDIR}/esxi07.int.alpi.xyz-ca.crt"
