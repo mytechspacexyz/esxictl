@@ -347,6 +347,8 @@ This project is **not affiliated with, endorsed by, or sponsored by Broadcom Inc
 
 This project is licensed under the **GNU Affero General Public License v3.0 (AGPLv3)** — see the [LICENSE](LICENSE) file for full details.
 
+⚠️  Use of this codebase for AI/ML training is explicitly prohibited — see [AI_USAGE_POLICY.md](AI_USAGE_POLICY.md).
+
 In summary: you are free to use, modify and distribute this software, but any modified version must also be released under AGPLv3 and its source code made available. This applies even when the software is provided as a service over a network.
 
 ---
