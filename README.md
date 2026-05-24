@@ -18,6 +18,7 @@
 ![ESXi](https://img.shields.io/badge/ESXi-6.x%20%7C%207.x%20%7C%208.x%20%7C%209.x-brightgreen.svg)
 ![Shell](https://img.shields.io/badge/shell-bash-orange.svg)
 ![Version](https://img.shields.io/badge/version-1.0.0-informational.svg)
+![Downloads](https://img.shields.io/github/downloads/mytechspacexyz/esxictl/total)
 
 ---
 
