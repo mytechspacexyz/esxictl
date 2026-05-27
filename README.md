@@ -280,7 +280,7 @@ Can be viewed: tail -f <path to the esxictl main folder>/logs/esxictl.log
 
 ---
 
-## 🗑️ Uninstall
+## 🗑️ Uninstallation
 
 ```bash
 # Remove the symlink from PATH
