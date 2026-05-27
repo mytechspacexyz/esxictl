@@ -15,7 +15,7 @@ main() {
 	log_info "${BASHAPP_NAME} is running."
 
 	log_debug "${FUNCNAME[0]} is called"
-	log_debug "with the arguments: $@"
+	log_debug "with the arguments: $*"
 
 	check_for_app_deps
 

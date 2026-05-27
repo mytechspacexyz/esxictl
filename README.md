@@ -34,6 +34,7 @@
 - [Configuration](#-configuration)
 - [Usage](#-usage)
 - [Navigation](#navigation)
+- [Uninstallation](#-uninstallation)
 - [Architecture](#-architecture)
 - [QA Compatibility Matrix](#-qa-compatibility-matrix)
 - [Disclaimer](#-disclaimer)
@@ -276,6 +277,25 @@ Can be viewed: tail -f <path to the esxictl main folder>/logs/esxictl.log
 | `Ctrl-H` | Toggle preview panel on actions help |
 | `Ctrl-B` | Cancel / go back |
 | `Esc` | Exit |
+
+---
+
+## 🗑️ Uninstall
+
+```bash
+# Remove the symlink from PATH
+unlink <path to the esxictl symlink>
+
+# Remove bash completion (if added)
+# Edit ~/.bashrc or similar and remove:
+# - the _esxictl_completion() function block
+# - the complete -F _esxictl_completion esxictl line
+# Then restart the shell:
+exec $SHELL
+
+# Remove the cloned repository
+rm -rf <esxictl folder>
+```
 
 ---
 

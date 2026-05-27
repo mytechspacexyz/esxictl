@@ -2626,7 +2626,7 @@ cmd_vms_snapshot_rename() {
 					NEW_SNAPSHOT_DESCRIPTION < /dev/tty
 				[[ -z "${NEW_SNAPSHOT_DESCRIPTION}" ]] && local NEW_SNAPSHOT_DESCRIPTION="renamed-${VMID}-snap-$(date '+%Y%m%d%H%M%S')"
 		
-				log_debug "function: ${FUNCNAME[0]}, renamed snapshot description is ${NEW_SNAPSHOT_DESCIPTION}"
+				log_debug "function: ${FUNCNAME[0]}, renamed snapshot description is ${NEW_SNAPSHOT_DESCRIPTION}"
 
 				local RENAMEVMSNAPSHOT_XML
 				RENAMEVMSNAPSHOT_XML=$(
