@@ -24,20 +24,20 @@
 
 ## 📚 Table of Contents
 
-- [Demo](#-demo)
+- [Demo](#%EF%B8%8F-demo)
 - [Why esxictl?](#-why-esxictl)
 - [Features](#-features)
 - [Free vs Pro](#-free-vs-pro)
 - [Requirements](#-requirements)
-- [Tested ESXi Versions](#-tested-esxi-versions)
+- [Tested ESXi Versions](#%EF%B8%8F-tested-esxi-versions)
 - [Installation](#-installation)
-- [Configuration](#-configuration)
+- [Configuration](#%EF%B8%8F-configuration)
 - [Usage](#-usage)
-- [Navigation](#navigation)
-- [Uninstallation](#-uninstallation)
-- [Architecture](#-architecture)
+- [Navigation](#-navigation)
+- [Uninstallation](#%EF%B8%8F-uninstallation)
+- [Architecture](#%EF%B8%8F-architecture)
 - [QA Compatibility Matrix](#-qa-compatibility-matrix)
-- [Disclaimer](#-disclaimer)
+- [Disclaimer](#%EF%B8%8F-disclaimer)
 - [License](#-license)
 - [Acknowledgements](#-acknowledgements)
 
@@ -202,7 +202,7 @@ esxictl setup
 
 ---
 
-## ⚙️ Configuration
+## ⚙️  Configuration
 
 ```bash
 On first run `esxictl setup` will guide you through the configuration interactively.
@@ -264,7 +264,7 @@ written to the file esxictl.log
 Can be viewed: tail -f <path to the esxictl main folder>/logs/esxictl.log
 ```
 
-### Navigation
+## 🧭 Navigation
 
 | Key | Action |
 |---|---|
