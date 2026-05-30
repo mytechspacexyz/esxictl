@@ -19,7 +19,7 @@
 ![Shell](https://img.shields.io/badge/shell-bash-orange?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Version](https://img.shields.io/badge/version-1.0.0-informational?style=for-the-badge)
 ![Last Commit](https://img.shields.io/github/last-commit/mytechspacexyz/esxictl?style=for-the-badge)
-![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![VMware ESXi](https://img.shields.io/badge/Works%20with-VMware%20ESXi-607078?style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
