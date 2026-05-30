@@ -14,12 +14,13 @@
 
 ---
 
-![License](https://img.shields.io/badge/license-AGPLv3-blue.svg)
-![ESXi](https://img.shields.io/badge/ESXi-6.x%20%7C%207.x%20%7C%208.x%20%7C%209.x-brightgreen.svg)
-![Shell](https://img.shields.io/badge/shell-bash-orange.svg)
-![Version](https://img.shields.io/badge/version-1.0.0-informational.svg)
-![Last Commit](https://img.shields.io/github/last-commit/mytechspacexyz/esxictl)
-<!-- ![Downloads](https://img.shields.io/github/downloads/mytechspacexyz/esxictl/total) -->
+![License](https://img.shields.io/badge/license-AGPLv3-blue?style=for-the-badge)
+![ESXi](https://img.shields.io/badge/ESXi-6.x%20%7C%207.x%20%7C%208.x%20%7C%209.x-brightgreen?style=for-the-badge)
+![Shell](https://img.shields.io/badge/shell-bash-orange?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Version](https://img.shields.io/badge/version-1.0.0-informational?style=for-the-badge)
+![Last Commit](https://img.shields.io/github/last-commit/mytechspacexyz/esxictl?style=for-the-badge)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
