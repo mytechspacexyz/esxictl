@@ -134,7 +134,7 @@ Managing standalone ESXi hosts **without vCenter** has always been painful:
 
 | Dependency | Purpose | Install |
 |---|---|---|
-| `bash` | Shell runtime | Pre-installed on most Linux distros |
+| `bash` | Shell runtime — **4.4+ required** | Pre-installed on most Linux distros |
 | `curl` | HTTPS/SOAP API calls | `apt install curl` / `dnf/yum install curl` / `apk add curl` / `xbps-install -S curl`  |
 | `fzf` | Interactive menus | `apt install fzf` / `dnf/yum install fzf` / `apk add fzf` / `xbps-install -S fzf` |
 | `xmllint` | XML parsing | `apt install libxml2-utils` / `dnf/yum install libxml2`  / `apk add libxml2-utils` / `xbps-install -S libxml2` |
